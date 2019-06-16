@@ -1,13 +1,13 @@
 {
-  "main.css": "/diploma/static/css/main.d4a8e071.chunk.css",
-  "main.js": "/diploma/static/js/main.6fca4aea.chunk.js",
-  "main.js.map": "/diploma/static/js/main.6fca4aea.chunk.js.map",
-  "static/js/1.77d39a06.chunk.js": "/diploma/static/js/1.77d39a06.chunk.js",
-  "static/js/1.77d39a06.chunk.js.map": "/diploma/static/js/1.77d39a06.chunk.js.map",
+  "main.css": "/diploma/static/css/main.34cebe3b.chunk.css",
+  "main.js": "/diploma/static/js/main.8ea6083b.chunk.js",
+  "main.js.map": "/diploma/static/js/main.8ea6083b.chunk.js.map",
+  "static/js/1.01f198da.chunk.js": "/diploma/static/js/1.01f198da.chunk.js",
+  "static/js/1.01f198da.chunk.js.map": "/diploma/static/js/1.01f198da.chunk.js.map",
   "runtime~main.js": "/diploma/static/js/runtime~main.ddc634b6.js",
   "runtime~main.js.map": "/diploma/static/js/runtime~main.ddc634b6.js.map",
-  "static/css/main.d4a8e071.chunk.css.map": "/diploma/static/css/main.d4a8e071.chunk.css.map",
+  "static/css/main.34cebe3b.chunk.css.map": "/diploma/static/css/main.34cebe3b.chunk.css.map",
   "index.html": "/diploma/index.html",
-  "precache-manifest.cf493b5bb81d3d119a70a680323e6675.js": "/diploma/precache-manifest.cf493b5bb81d3d119a70a680323e6675.js",
+  "precache-manifest.9e7033e09e9218c2be55e592f98c69b7.js": "/diploma/precache-manifest.9e7033e09e9218c2be55e592f98c69b7.js",
   "service-worker.js": "/diploma/service-worker.js"
 }
